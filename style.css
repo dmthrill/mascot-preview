@@ -1,0 +1,21 @@
+body{
+  background: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#mascot{
+  width: 100%;
+  cursor: pointer;
+}
+.baixo_stroke, .meio_stroke, .cima_stroke{
+  stroke: black;
+  stroke-width: 20px;
+  stroke-linecap: round;
+}
+.X_stroke_01, .X_stroke_02{
+  stroke: black;
+  stroke-width: 20px;
+  stroke-linecap: round;
+}
